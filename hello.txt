@@ -1,4 +1,6 @@
 some text i have just entered
 :wq
-changings to make some conflicts - more chages!
+new changes for training
+changings to make some conflicts
+Zaeblo uzhe - more chages!
 
